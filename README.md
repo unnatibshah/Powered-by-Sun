@@ -45,11 +45,11 @@
 
 
 ## Output
- <video width="320" height="240" autoplay muted>
-  <source src="https://drive.google.com/file/d/1H_w4EQGdSA_8-R42ZYQTPjK1QWk5moCY/view?usp=sharing" type="video/mp4">
-  <source src="https://drive.google.com/file/d/1H_w4EQGdSA_8-R42ZYQTPjK1QWk5moCY/view?usp=sharing" type="video/ogg">
-Your browser does not support the video tag.
-</video> 
+<img width="1079" alt="image" src="https://github.com/unnatibshah/Powered-by-Sun/assets/52345893/0f7e3435-2ff1-48c1-ae4e-0daeb198fd0f">
+<img width="1153" alt="image" src="https://github.com/unnatibshah/Powered-by-Sun/assets/52345893/ea2461bc-46ba-4c23-831b-9c80f89a65fe">
+<img width="1151" alt="image" src="https://github.com/unnatibshah/Powered-by-Sun/assets/52345893/5fb219d0-b87d-4db0-b66d-14a334cde08f">
+<img width="1152" alt="image" src="https://github.com/unnatibshah/Powered-by-Sun/assets/52345893/7f2c5f64-267e-4289-8cd9-00a4be605d6d">
+
 <!-- https://drive.google.com/file/d/1H_w4EQGdSA_8-R42ZYQTPjK1QWk5moCY/view?usp=sharing -->
 
 
