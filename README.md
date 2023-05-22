@@ -5,7 +5,7 @@
   <p align="center">
     Leveraging Machine Learning to Forecast the Throughput of Solar Power along with Cost and  Size Calculation.
     <br />
-    <a href="https://github.com/unnatibshah/Image-Caption-Generator/blob/main/Project%20Report-Image%20Caption%20Genertator.pdf"><strong>View Report »</strong></a>
+    <a href="https://drive.google.com/file/d/1Ign_LkufyNIFY7JzBUstaoCmwX1qTb_N/view?usp=sharing"><strong>View Report »</strong></a>
     <br />
 <!--     <br /> -->
 <!--     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
