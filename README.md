@@ -4,7 +4,7 @@
 <h1 align="center">Powered by Sun</h1>
   <p align="center">
     Leveraging Machine Learning to Forecast the Throughput of Solar Power along with Cost and  Size Calculation.
-<!--     <br /> -->
+    <br />
     <a href="https://github.com/unnatibshah/Image-Caption-Generator/blob/main/Project%20Report-Image%20Caption%20Genertator.pdf"><strong>View Report »</strong></a>
     <br />
 <!--     <br /> -->
@@ -46,8 +46,11 @@
 
 ## Output
 <img width="1079" alt="image" src="https://github.com/unnatibshah/Powered-by-Sun/assets/52345893/0f7e3435-2ff1-48c1-ae4e-0daeb198fd0f">
+  <br />
 <img width="1153" alt="image" src="https://github.com/unnatibshah/Powered-by-Sun/assets/52345893/ea2461bc-46ba-4c23-831b-9c80f89a65fe">
+  <br />
 <img width="1151" alt="image" src="https://github.com/unnatibshah/Powered-by-Sun/assets/52345893/5fb219d0-b87d-4db0-b66d-14a334cde08f">
+  <br />
 <img width="1152" alt="image" src="https://github.com/unnatibshah/Powered-by-Sun/assets/52345893/7f2c5f64-267e-4289-8cd9-00a4be605d6d">
 
 <!-- https://drive.google.com/file/d/1H_w4EQGdSA_8-R42ZYQTPjK1QWk5moCY/view?usp=sharing -->
